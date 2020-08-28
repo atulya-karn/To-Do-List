@@ -31,7 +31,7 @@ ul {
 ul li {
   cursor: pointer;
   position: relative;
-  padding: 12px 8px 12px 40px;
+  padding: 12px 8px 12px 25px;
   margin: 0px;
   list-style-type: none;
   font-size: 18px;
@@ -62,7 +62,7 @@ ul li.checked::before {
   border-style: solid;
   border-width: 0 2px 2px 0;
   top: 16px;
-  left: 16px;
+  left: 10px;
   transform: rotate(45deg);
   height: 15px;
   width: 7px;
